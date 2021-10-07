@@ -1,1 +1,3 @@
-Resolução das listas de exercícios do "Python para Zumbis".
+Aprendendo Python com:
+Code With Mosh;
+Python para Zumbis.
